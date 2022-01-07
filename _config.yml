@@ -23,7 +23,7 @@ resume_contact_address:         "Lago Patzcuaro 37 Int 501 Col. Anahuac Miguel H
 resume_header_contact_info:     "Miguel Hidalgo Ciudad de México • 55-6116-1536 • sandym3000@hotmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a full-stack web developer who relies on a passion for learning, acute attention to details and effective communication to deliver exceptional results.</p>"
+resume_header_intro: "<p>I am a full-stack web developer who relies on a passion for learning, acute attention to details and effective communication to deliver exceptional results.<br /> My mission is to find a junior web dev role that maximizes my opportunities for growth and skill development through working with an outstanding team!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

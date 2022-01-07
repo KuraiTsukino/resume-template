@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Web Development, Computer Programming
+  uni: Ironhack Mexico
+  year: Oct, 2021 &mdash; Dec, 2021
+  #awards:
+  #  - award: 
+  summary: 9 week intensive web development bootcamp <br /> Built front end projects using HTML, CSS, Bootstrap, Tailwind. <br /> Built full stack project using ExpressJs, NodeJs, HandlebarsJs and Mongo DB <br /> Built a full stack project using ReactJs. <br /> Version Control - Git | GitHub 
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master in Administration.
+  uni: Universidad Nacional Autónoma de México
+  year: 2014 - 2016
+  award: Graduation for Academic Excellence
+  summary: Master for the direction, development, consulting, promotion and strengthening of organizations belonging to Health Systems, within a framework of ethics and social responsibility, with the ability to formulare and implement strategies, participate in decision making and resolution of problems faced by these organizations.
