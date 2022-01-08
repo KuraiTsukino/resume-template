@@ -1,11 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Soft Skills
-  description: Ability to Multitask, Excellent Communication Skills, Ability to Work Under Pressure, Fast Learner, Ability to Work in a Team
 
 # Communications strategy
-- skill: Technologies
-  description: HTML, CSS, JavaScript ES6, NodeJs, ExpressJs, MongoDB, React
+- skill: Programming Languages.
+  description: HTML, CSS, JavaScript ES6.
+
+# Communications strategy
+- skill: Technologies / Framework
+  description: NodeJs, ExpressJs, MongoDB, React, Tailwind CSS, Bootstrap, Git, GitHub.
+
+# Organizational leadership
+- skill: Soft Skills
+  description: Ability to Multitask, Excellent Communication Skills, Ability to Work Under Pressure, Fast Learner, Ability to Work in a Team.
 
 # Digital content development and creation
 - skill: Languages
