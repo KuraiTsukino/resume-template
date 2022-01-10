@@ -6,17 +6,17 @@
   #role: Creator.
   #duration: 2012 &mdash; Present
   url: "https://tsukino-travels.netlify.app"
-  description: Travel app using React, JSX, HTML, CSS, Tailwind, NodeJs, Express, MongoDB, Heroku, Netlify.
+  description: Travel app similar to Tripadvisor, where you can add places to visit.
 
 # Springfield Community Outreach Group
 - project: Marvel Movies.
   #role: Co-Creator.
   #duration: 2007 &mdash; Present
   url: "https://tu-marvel-movies-app.herokuapp.com/"
-  description: App about Marvel Movies using Express, NodeJs, HTML, CSS, Handlebars, JavaScript, MongoDB, Heroku, Bootstrap, Tailwind.
+  description: App about Marvel Movies using CRUD to Create, Read, Update and Delete the movies.
 
 - project: Corogame.
   #role: Creator.
   #duration: 2007 &mdash; Present
   url: "https://corogame.netlify.app"
-  description: Game about coronavirus, using HTML5, CSS, Canvas, JavaScript.
+  description: Game about coronavirus, where you can use a Coronavirus character to infect people who does not use a mask.
