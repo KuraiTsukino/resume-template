@@ -6,7 +6,7 @@
   #role: Creator.
   #duration: 2012 &mdash; Present
   url: "https://tsukino-travels.netlify.app"
-  description: Travel app similar to Tripadvisor, where you can add places to visit.
+  description: Travel app similar to Tripadvisor, where can add, update and delete places to visit.
 
 # Springfield Community Outreach Group
 - project: Marvel Movies.
@@ -19,4 +19,4 @@
   #role: Creator.
   #duration: 2007 &mdash; Present
   url: "https://corogame.netlify.app"
-  description: Game about coronavirus, where you can use a Coronavirus character to infect people who does not use a mask.
+  description: Game about coronavirus, where can use a Coronavirus character to infect people who does not use a mask.
