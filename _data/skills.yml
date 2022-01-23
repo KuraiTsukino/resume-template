@@ -1,12 +1,16 @@
 # Skills
 
 # Communications strategy
-- skill: Programming Languages.
+- skill: Coding Languages.
   description: HTML, CSS, JavaScript ES6.
 
 # Communications strategy
-- skill: Technologies / Framework
-  description: NodeJs, ExpressJs, MongoDB, React, Tailwind CSS, Bootstrap, Git, GitHub.
+- skill: Technologies / Frameworks
+  description: NodeJs, ExpressJs, MongoDB, React, Handlebars, Tailwind CSS, Bootstrap.
+
+# Communications strategy
+- skill: Version Control
+  description: Git, GitHub, Sourcetree.
 
 # Organizational leadership
 - skill: Soft Skills
@@ -14,4 +18,4 @@
 
 # Digital content development and creation
 - skill: Languages
-  description: Spanish C2. English B1. German A2.
+  description: Spanish C2. English B1 Academic IELTS. German A2.
