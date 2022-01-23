@@ -1,5 +1,9 @@
 # Courses
-- title: JavaScript Esencial
+- title: Regular Expressions
+  organization: ED Team
+  date: December, 2021
+  
+- title: JavaScript Essential
   organization: LinkedIn Learning
   date: December, 2021
   #summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
@@ -12,3 +16,4 @@
 - title: HTML Course
   organization: SoloLearn
   date: January, 2022
+
